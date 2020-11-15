@@ -1,0 +1,26 @@
+.staffer {
+  display: flex;
+  margin: $sp-4;
+
+  .staffer-image {
+    border-radius: 50%;
+    margin-right: $sp-4;
+    object-fit: cover;
+    object-position: top center;
+    width: 100px;
+    height: 100px;
+  }
+
+  p,
+  .staffer-name {
+    margin: $sp-1 !important;
+  }
+
+  .staffer-pronouns {
+    @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
+  }
+
+  .staffer-meta {
+    @extend .text-grey-dk-000;
+  }
+}

@@ -1,0 +1,32 @@
+@import 'staffer';
+
+// 
+// course number and title hiding
+// 
+
+.side-bar .site-header .course_number {
+	display: None;
+}
+
+#main-header {
+	display: None;
+}
+
+@include mq(md) {
+	.side-bar .site-header {
+		.course_number {
+			display: block;
+		}
+		.course_title {
+			display: None;
+		}
+	}
+
+	#main-header {
+		display: block;
+	}
+}
+
+.nav-list-item a {
+	line-height: 1.25rem !important;
+}
