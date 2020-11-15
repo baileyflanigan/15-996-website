@@ -4,6 +4,7 @@ email:
 website: http://www.andrew.cmu.edu/user/tel1/
 photo:
 pronouns:
+role: working group
 ---
 
 Bio here
