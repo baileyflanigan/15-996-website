@@ -13,7 +13,7 @@ An intensive graduate course on the design and analysis of algorithms. This cour
 ## FAQs
 
 - Is my university eligible for the PhD Fellowship Program?
-    [<button id='faq1-button' onclick="toggleButton('faq1-button'); toggleContent('faq1-content');" class="collapse-button" tabindex>expand</button>]  
+    <button id='faq1-button' onclick="toggleButton('faq1-button'); toggleContent('faq1-content');" class="collapse-button" tabindex>[expand]</button>  
     <div id='faq1-content' markdown="1" class="collapse-content">
 
     > In the United States, Canada, Europe, and East Asia, universities must be an accredited research institution that awards research degrees to PhD students in Computer Science or related field to be eligible.  
@@ -25,7 +25,7 @@ An intensive graduate course on the design and analysis of algorithms. This cour
     </div> 
 
 - What should be included in an application?
-    [<button id='faq2-button' onclick="toggleButton('faq2-button'); toggleContent('faq2-content');" class="collapse-button" tabindex>expand</button>]  
+    <button id='faq2-button' onclick="toggleButton('faq2-button'); toggleContent('faq2-content');" class="collapse-button" tabindex>[expand]</button>  
     <div id='faq2-content' markdown="1" class="collapse-content">
 
     > For each student nomination, the university will be asked to submit the following material in a single PDF file:
