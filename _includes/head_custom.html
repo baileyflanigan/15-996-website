@@ -1,1 +1,19 @@
 <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:700,400' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">
+	function toggleButton(id) {
+	  var x = document.getElementById(id);
+	  x.classList.toggle("show");
+	  if (x.classList.contains("show")) {
+	  	x.innerHTML = "collapse";
+	  } else {
+	  	x.innerHTML = "expand";
+	  }
+	  x.blur();
+	}
+
+	function toggleContent(id) {
+	  var x = document.getElementById(id);
+	  x.classList.toggle("show");
+	}
+</script>
