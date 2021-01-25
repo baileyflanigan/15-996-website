@@ -69,3 +69,11 @@
 .footnotes {
   @include fs-2;
 }
+
+.schedule-label-red {
+  color: $red-200;
+}
+
+.schedule-label-purple {
+  color: $purple-100;
+}

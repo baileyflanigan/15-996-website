@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Meet the People
-nav_order: 3
+title: Meet the people
+nav_order: 6
 permalink: /people/
 ---
 
