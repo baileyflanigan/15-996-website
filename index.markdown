@@ -5,40 +5,62 @@ nav_order: 1
 permalink: /
 ---
 
+{% comment %}
 ![Word cloud]({{site.baseurl}}/assets/img/word_cloud.svg)
+{% endcomment %}
+
+
+__Instructors__: [Zico Kolter](), [Bailey Flanigan]()  
+__Discussion moderators__: [Judeth Oden Choi](), [Anson Kahng](), [Tim Lee](), [Sara McAllister](), [Catalina Vaijac]()  
+__Course sessions__: US time-zones (Fridays, 4--5:20pm ET), Non-US time-zones (Mondays, 8--9:20am ET)  
+__Office hours__: By appointment  
+__Useful links__: [Canvas]()  
+__Prerequisites / supplementary materials__: None required
 
 ## Course description
-An intensive graduate course on the design and analysis of algorithms. This course is primarily aimed at graduate and advanced undergraduate students interested in doing research in theoretical computer science. It is more specialized and in-depth than the Graduate Algorithms course (15-750). We will cover advanced algorithmic ideas (some classical, some very recent), and the theory behind it (theorems, proofs). For topics that were covered in 451/750, the goal is to cover advanced content, proofs, and new techniques.
+This is a brand new course, developed by PhD students, for PhD students, focused on diversity[^1], equity[^2], and inclusion[^3] (DEI) within computer science and more broadly in society.  This course was introduced with the goal of preparing PhD students for the complex challenges they may face in the PhD program, and to equip them with tools to be more inclusive members of the computer science community. In this course, we will explore concepts from the humanities and social justice literature (e.g., inclusivity, privilege, equity, and allyship) through the lenses of academic research and computer science. Our goal is to make this material accessible, thought-provoking, and actionable to students of a variety of backgrounds and levels of understanding of diversity, equity, and inclusion. 
 
+This pilot course consists of three 80-minute sessions, hosted on zoom. Each session covers a different topic. An 80-minute session consists of a ~20-minute lecture on that topic, followed by ~60 minutes of small-group discussion (3-4 students / group) guided by trained moderators (PhD-student TAs). A detailed description of how these small-group discussions are carried out is located in the 15-996 Discussion Guide.
+
+----
+
+## Disability accommodations
+This course is hosted on zoom, and will require speaking and typing in the chat window. Homework will require reading materials and writing short responses online. If you have a disability and need accommodations to participate in these activities, __please contact the course instructors by no later than Feb 5, 2020__, a week before class starts, so that we can work with you to ensure you can fully participate.
+
+## Academic integrity
+Cheating or plagiarism can result in a failing grade. Any work you turn in must be your own. In your short responses, if you wish to use text written or spoken by someone else, quote them if possible, and always cite your source. When completing asynchronous work for which you are instructed not to use outside sources, __please follow these instructions__. This is not only important for your own integrity; this is also to uphold the integrity of the data we collect on the efficacy of the course. 
+
+## Health and well-being
+One of our goals in developing this course is that you will enjoy taking it. __Therefore, to the extent we can with the teaching resources we have, we want to work with you to accommodate your needs__.  While we are assigning some amount of work, we hope that you find this work as well-motivated and intellectually stimulating as we do, and that you enjoy engaging with the crucial topics it explores. 
+
+__Being a graduate student can be stressful, and your mental health is important__. We strongly encourage you to seek support throughout your PhD via Counseling and Psychological Services (CaPS) (to contact, call 412-268-2922 and/or visit their [website](http://www.cmu.edu/counseling/)). If you’re feeling stressed or overwhelmed, either in general or about a specific problem, you can contact the student ombudsperson, [Alex Wang](https://www.cs.cmu.edu/~alw1/), talk with your advisor or another friend or faculty member you trust, or ask the course instructors about further resources. 
+
+## Diversity Statement
+Our goal in this course is not just to teach about diversity, equity, and inclusion, but to be inclusive in the delivery of this material to the entire diversity of students who take it. Crucial to both the enjoyment and the learning of the students who take this course is that within it, all students’ diverse perspectives are shared. This course handles sensitive information, and we have taken great care to ensure that triggers are avoided in the delivered information and that discussion groups are safe spaces for everyone. 
+That being said, __if you feel that you are experiencing any form of discrimination, being triggered by the material, or in other ways being marginalized in this course due to your identity or experiences, you have a few options__:
+
+- Set up an appointment via email with a course instructor or any moderator 
+- This [anonymous portal](https://forms.gle/4B4P8bn6FCWn3WTW9), where you can submit any of the following information: (a) An issue you’ve seen arising that you think we should be looking out for, (b) a specific issue and how you want us to help, (c) any concerns you have in general, and don’t know what to do about.
+
+_We care immensely about creating a space where all students have an equal opportunity to engage with the material, and we will take care to address your concerns with humility and sensitivity_.
+
+
+
+----------
+
+[^1]: __Diversity__: the representation of our varied commonalities and differences (race, ethnicity, gender, disability, sexual orientation, gender identity, national origin, tribe, caste, socio-economic status, thinking and communication styles, life experiences and ideologies, etc.), both individually and collectively [synth. Ford Foundation and CMU DEI].
+
+[^2]: __Equity__: the concept of “[ensuring] fair treatment, equality of opportunity, and fairness in access to information and resources for all.” [Ford Foundation].
+
+[^3]: __Inclusivity__: a philosophy of acceptance where all people are valued and treated with respect [Carrington 2000].
+
+{% comment %}
 ## FAQs
-
-- Is my university eligible for the PhD Fellowship Program?
+- question?
     <button id='faq1-button' onclick="toggleButton('faq1-button'); toggleContent('faq1-content');" class="collapse-button" tabindex>[expand]</button>  
     <div id='faq1-content' markdown="1" class="collapse-content">
 
-    > In the United States, Canada, Europe, and East Asia, universities must be an accredited research institution that awards research degrees to PhD students in Computer Science or related field to be eligible.  
-    In Australia and New Zealand, direct invitations for nominations are sent to the Computer Science departments and/or Graduate Funding offices of eligible universities.  
-    > In India and Africa, applications are open to students in Computer Science and related fields from any Indian or African university, respectively.
-    >
-    > __Restrictions__: All award payments and recipients will be reviewed for compliance with relevant US and international laws, regulations and policies. Google reserves the right to withhold funding that may violate laws, regulations or our policies.
+    > place answer in quotation block
 
     </div> 
-
-- What should be included in an application?
-    <button id='faq2-button' onclick="toggleButton('faq2-button'); toggleContent('faq2-content');" class="collapse-button" tabindex>[expand]</button>  
-    <div id='faq2-content' markdown="1" class="collapse-content">
-
-    > For each student nomination, the university will be asked to submit the following material in a single PDF file:
-    >
-    > 1. Student CV with links to website and publications (if available)
-    > 1. Short (1-page) CV of the student's primary advisor
-    > 1. Transcripts of current and previous academic records
-    > 1. 2-3 letters of recommendation from those familiar with the nominee's work (at least one from the thesis advisor)
-    > 1. Research / dissertation proposal including references (maximum 8 pages)
-
-    </div> 
-
-## Student testimony
-> "Just wanted to write to you and tell you how much I enjoyed today’s _Lunch with a Lawyer_. It was incredibly interesting and motivating. I ... wrote to [the speaker] thanking him for coming out and talking with us."---T.
-
-> "I think it would be beyond your imagination to know what a great thing you have done for me, by informing (me about) this (moot court) class!"---M.
+{% endcomment %}

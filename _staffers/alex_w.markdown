@@ -1,10 +1,12 @@
 ---
 name: Alex L. Wang
-email: alw1@cs.cmu.edu
+email:
 website: https://cs.cmu.edu/~alw1
-photo: alex_w.jpg
-pronouns: he/him
+photo: alex-headshot.jpg
+pronouns: he/his
 role: working group
 ---
 
-Mary Jones is an Administrative Assistant with eight years of experience working alongside the executive team of a Fortune 500 company. Mary specializes in administrative technology and is responsible for educating other employees on using progressive systems and applications, including accounting software, mass communication procedures and organizational apps. Mary is a powerful force in the workplace and uses her positive attitude and tireless energy to encourage others to work hard and succeed.
+Alex is a fourth year Ph.D. student in the Computer Science department working on problems at the intersection of theory and continuous optimization. His research has recently focused on understanding semidefinite programs and their ability to solve quadratically constrained quadratic programs.
+
+Alex joined this working group to spread awareness of DEI issues in academia with the hope of engendering a more inclusive environment within the department and field.

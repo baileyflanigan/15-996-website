@@ -18,16 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-course_title: Diversity and Inclusion in Science and Society
+course_title: Diversity, Equity, and Inclusion in Computer Science and Society
 course_year: Spring 2021
-course_number: 12-345
-email: asdf
+course_number: 15-996
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+  Course website for 15-996 Diversity, Equity, and Inclusion in Computer Science and Society, Spring 2021
+baseurl: "/~15996" # the subpath of your site, e.g. /blog
+url: "https://cs.cmu.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Just the docs settings
 search_enabled: false
