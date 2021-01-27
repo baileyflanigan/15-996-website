@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Meet the people
+title: Meet the Creators
 nav_order: 6
-permalink: /people/
+permalink: /creators/
 ---
 
 ## Creators
@@ -17,7 +17,9 @@ permalink: /people/
 {{ staffer }}
 {% endfor %}
 
-We would additionally like to thank the following people for lending us their expertise:
+----
+
+__We would additionally like to thank the following people for lending us their expertise__:
 - Dr. Alexis Adams (Postdoctoral Teaching Consultant @ Eberly Center)
 - Dr. Joanna Dickert (Assistant Dean for Educational Experience Assessment)
 - Dr. Chad Hershock (Director of Faculty & Graduate Student Programs @ Eberly Center)

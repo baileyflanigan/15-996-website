@@ -2,9 +2,7 @@
 name: Josh Williams
 email:
 website: https://jnwilliams.github.io/
-photo:
+photo: gray-square.jpg
 pronouns:
 role: working group
 ---
-
-Bio here

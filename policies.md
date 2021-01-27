@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Course policies
+title: Course Policies
 nav_order: 4
 permalink: /policies/
 ---
 
-## Course policies
+## Course Policies
 
 ### Discussions and the discussion guidelines
 TODO
@@ -21,7 +21,7 @@ One of our goals in developing this course is that you will enjoy taking it. __T
 
 __Being a graduate student can be stressful, and your mental health is important__. We strongly encourage you to seek support throughout your PhD via Counseling and Psychological Services (CaPS) (to contact, call 412-268-2922 and/or visit their [website](http://www.cmu.edu/counseling/)). If you’re feeling stressed or overwhelmed, either in general or about a specific problem, you can contact the student ombudsperson, [Alex Wang](https://www.cs.cmu.edu/~alw1/), talk with your advisor or another friend or faculty member you trust, or ask the course instructors about further resources. 
 
-### Diversity Statement
+### Diversity statement
 Our goal in this course is not just to teach about diversity, equity, and inclusion, but to be inclusive in the delivery of this material to the entire diversity of students who take it. Crucial to both the enjoyment and the learning of the students who take this course is that within it, all students’ diverse perspectives are shared. This course handles sensitive information, and we have taken great care to ensure that triggers are avoided in the delivered information and that discussion groups are safe spaces for everyone. 
 That being said, __if you feel that you are experiencing any form of discrimination, being triggered by the material, or in other ways being marginalized in this course due to your identity or experiences, you have a few options__:
 

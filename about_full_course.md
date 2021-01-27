@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About (full course)
+title: About (Full Course)
 nav_order: 3
 permalink: /about_full_course/
 ---
 
-TODO
+Coming soon.

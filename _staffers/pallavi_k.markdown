@@ -2,9 +2,8 @@
 name: Pallavi Koppol
 email:
 website: https://www.cs.cmu.edu/~pkoppol/
-photo:
+photo: pallavi-headshot.jpg
 pronouns:
 role: working group
 ---
 
-Bio here
