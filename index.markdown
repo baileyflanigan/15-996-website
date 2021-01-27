@@ -21,13 +21,13 @@ __Office hours__: By appointment
 __Useful links__: [Canvas](https://canvas.cmu.edu/courses/21247), [Syllabus](https://docs.google.com/document/d/1z-tmjTFH-7H93DUKe894Th1U_soelk9rM4WHzfkHTfc/edit?usp=sharing), [Discussion guide](https://docs.google.com/document/d/1b2bWZvbt-tF4RenMrwZdKjCy_NBbg606UY8uXDeCERU/edit?usp=sharing)  
 __Prerequisites / supplementary materials__: None required
 
-## Course description
+## Course Description
 __This is a brand new course, developed by PhD students, for PhD students__, focused on diversity, equity, and inclusion in computer science, academia, and society. It is required for first-year doctoral students in CSD. This pilot course consists of three 80-minute sessions (via Zoom), where each session is focused on a different topic. A single session consists of a ~20-minute lecture, followed by ~60 minutes of small-group discussion (3–4 students / group) guided by trained moderators (PhD-student TAs). Between sessions, students must complete an activity asynchronously to help them reflect on the previous session and prepare for the next.
 
-## Course goals
+## Course Goals
 This course was introduced with the goal of preparing PhD students for the complex challenges they may face in the PhD program, and to equip them with tools to be more inclusive members of the computer science community. In this course, we will explore concepts from the humanities and social justice literature (e.g., inclusivity, privilege, equity, and allyship) through the lenses of academic research and computer science. Our goal is to make this material accessible, thought-provoking, and actionable to students of a variety of backgrounds and levels of understanding of diversity, equity, and inclusion.
 
-## Course topics
+## Course Topics
 - __Session 1__: Diversity, equity, and inclusion in computer science  
     1. Inclusive discussion via community guidelines
     2. Impostor syndrome
