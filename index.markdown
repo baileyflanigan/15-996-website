@@ -4,21 +4,21 @@ title: About (Pilot)
 nav_order: 1
 permalink: /
 ---
-<p class="text-grey-dk-000 mb-0 mr-2" markdown=1>
-This is the pilot for 15-996, a shortened (3-session) version of the full proposed 12-session course. For more information about the full course, see [About (Full Course)](about_full_course).
-</p>
-
-----
 
 ![course topics word cloud](assets/img/wordcloud.svg)
 
 ----
 
+<p class="text-small text-grey-dk-000 mb-0 mr-2" markdown=1>
+Note: This page describes the _pilot_ of course #15-996, which is a shortened (3-session) version of the full proposed 12-session course. For more information about the full course, see [About (Full Course)](about_full_course).
+</p>
+
+
 __Instructors__: [Zico Kolter](https://zicokolter.com/) (zkolter@andrew), [Bailey Flanigan](http://baileyflanigan.com/) (bflaniga@andrew)  
 __Discussion moderators__: [Judeth Oden Choi](https://judethodenchoi.com/) (jochoi@andrew), [Anson Kahng](https://www.cs.cmu.edu/~akahng/) (akahng@andrew), [Tim Lee](http://www.andrew.cmu.edu/user/tel1/) (tel1@andrew), [Sara McAllister](https://saramcallister.github.io/) (sjmcalli@cs), [Catalina Vaijac](http://catvajiac.me/) (cvaijac@cs)  
 __Course sessions__: US time-zones (Fridays, 4--5:20pm ET), Non-US time-zones (Mondays, 8--9:20am ET)  
 __Office hours__: By appointment  
-__Useful links__: [Canvas](https://canvas.cmu.edu/courses/21247), [Syllabus](https://docs.google.com/document/d/1z-tmjTFH-7H93DUKe894Th1U_soelk9rM4WHzfkHTfc/edit?usp=sharing), [Discussion guide](https://docs.google.com/document/d/1b2bWZvbt-tF4RenMrwZdKjCy_NBbg606UY8uXDeCERU/edit?usp=sharing)  
+__Useful links__: [Canvas](https://canvas.cmu.edu/courses/21247), [Syllabus](https://docs.google.com/document/d/1z-tmjTFH-7H93DUKe894Th1U_soelk9rM4WHzfkHTfc/edit?usp=sharing), [Discussion Guide](https://docs.google.com/document/d/1b2bWZvbt-tF4RenMrwZdKjCy_NBbg606UY8uXDeCERU/edit?usp=sharing)  
 __Prerequisites / supplementary materials__: None required
 
 ## Course Description

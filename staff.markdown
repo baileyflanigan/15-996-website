@@ -5,7 +5,7 @@ nav_order: 6
 permalink: /creators/
 ---
 
-## Creators
+## Co-Founders
 {% assign creators = site.staffers | where: 'role', 'creator' %}
 {% for staffer in creators %}
 {{ staffer }}
