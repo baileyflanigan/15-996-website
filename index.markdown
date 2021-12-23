@@ -15,7 +15,7 @@ Note: This page describes the _pilot_ of course #15-996, which is a shortened (3
 
 
 __Instructors__: [Zico Kolter](https://zicokolter.com/) (zkolter@andrew), [Bailey Flanigan](http://baileyflanigan.com/) (bflaniga@andrew)  
-__Discussion moderators__: [Judeth Oden Choi](https://judethodenchoi.com/) (jochoi@andrew), [Anson Kahng](https://www.cs.cmu.edu/~akahng/) (akahng@andrew), [Tim Lee](http://www.andrew.cmu.edu/user/tel1/) (tel1@andrew), [Sara McAllister](https://saramcallister.github.io/) (sjmcalli@cs), [Catalina Vaijac](http://catvajiac.me/) (cvaijac@cs)  
+__Discussion moderators__: [Judeth Oden Choi](https://judethodenchoi.com/) (jochoi@andrew), [Anson Kahng](https://www.cs.cmu.edu/~akahng/) (akahng@andrew), [Tabitha Lee](http://www.andrew.cmu.edu/user/tel1/) (tel1@andrew), [Sara McAllister](https://saramcallister.github.io/) (sjmcalli@cs), [Catalina Vaijac](http://catvajiac.me/) (cvaijac@cs)  
 __Course sessions__: US time-zones (Fridays, 4--5:20pm ET), Non-US time-zones (Mondays, 8--9:20am ET)  
 __Office hours__: By appointment  
 __Useful links__: [Canvas](https://canvas.cmu.edu/courses/21247), [Syllabus](https://docs.google.com/document/d/1z-tmjTFH-7H93DUKe894Th1U_soelk9rM4WHzfkHTfc/edit?usp=sharing), [Discussion Guide](https://docs.google.com/document/d/1b2bWZvbt-tF4RenMrwZdKjCy_NBbg606UY8uXDeCERU/edit?usp=sharing)  
