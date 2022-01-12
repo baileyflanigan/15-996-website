@@ -1,0 +1,23 @@
+button.link-button {
+  background-color: transparent;
+  border: 0;
+  text-decoration: underline;
+  padding: 0;
+  cursor: pointer;
+  color: $link-color;
+  @media (prefers-color-scheme: dark) {
+    color: $link-color-dm;
+  }
+
+  &:hover, &:active {
+    text-decoration: underline;
+    
+  	color: darken($link-color, 30%);
+    @media (prefers-color-scheme: dark) {
+      color: $light-gray;
+    }
+  }
+  &active, &:focus {
+  	outline: 0;
+  }
+}

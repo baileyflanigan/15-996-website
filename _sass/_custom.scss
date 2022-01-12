@@ -1,0 +1,6 @@
+.cs-jedi {
+	color: $cs-jedi-red;
+	  @media (prefers-color-scheme: dark) {
+	    color: $cs-jedi-red-dm;
+	  }
+}

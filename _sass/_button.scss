@@ -1,0 +1,43 @@
+/* Basscss Base Buttons */
+
+.button,
+a.button {
+  cursor: pointer;
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 0.25rem $space-1;
+  margin: 0;
+  height: auto;
+  vertical-align: middle;
+  -webkit-appearance: none;
+  border-radius: $border-radius;
+  transition-duration: .1s;
+  transition-timing-function: ease-out;
+  transition-property: background-color;
+
+  color: white;
+  background-color: $link-color;
+  border: transparent;
+  text-decoration: none;
+
+  &:hover {
+    color: white;
+    background-color: darken($link-color, 10%);
+    border: transparent;
+    outline: none;
+    text-decoration: none;
+  }
+
+  &:active,
+  &:focus {
+    color: white;
+    border: transparent;
+    outline: none;
+    text-decoration: none;
+  }
+}
+
+::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}

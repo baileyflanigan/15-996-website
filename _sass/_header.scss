@@ -1,0 +1,42 @@
+.site-header .site-title,
+.site-header .site-title-home {
+  font-size: $h1;
+  font-family: $font-family;
+  font-weight: $heading-font-weight;
+  color: $dark-gray;
+  @media (prefers-color-scheme: dark) {
+    color: $light-gray;
+  }
+}
+
+.site-header a {
+  font-size: $h3;
+  font-weight: 300;
+  text-decoration: none;
+  color: $cs-jedi-red;
+  @media (prefers-color-scheme: dark) {
+    color: $cs-jedi-red-dm;
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+  	text-decoration: none;
+  }
+}
+
+.site-header nav a:hover,
+.site-header nav a:focus,
+.site-header nav a:active,
+.site-header .nav-active {
+  border-bottom: 2px solid $cs-jedi-red;
+  color: darken($cs-jedi-red, 30%);
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 2px solid $cs-jedi-red-dm;
+    color: lighten($cs-jedi-red-dm,30%);
+  }
+}
+
+.site-nav a + a {
+  margin-left: $space-3;
+}

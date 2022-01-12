@@ -1,0 +1,71 @@
+// Typography
+$font-family: 'Montserrat';
+$heading-font-family: 'Montserrat';
+$monospace-font-family: monospace;
+
+$base-font-size: 14px;
+$base-font-viewport-small: 15px;
+$base-font-viewport-medium: 16px;
+$base-font-viewport-large: 16px;
+
+$blog-font-family: 'Merriweather';
+$drop-cap: false;
+
+$bio-name-font-size: 2rem;
+
+$line-height: 1.5;
+$heading-line-height: 1.25;
+
+$bold-font-weight: bold;
+$heading-font-weight: bold;
+
+$h1: 2rem;
+$h2: 1.75rem;
+$h3: 1.5rem;
+$h4: 1rem;
+$h5: .875rem;
+$h6: .75rem;
+
+$abbr-border-bottom: 1px black dotted;
+
+// Page width
+$measure-width: 48rem;
+
+// Sidenote width
+$blog-width: 0.7;
+$sidenote-width: 0.25;
+
+// Viewport widths
+$viewport-small: 32rem;
+$viewport-medium: 48rem;
+$viewport-large: 64rem;
+
+// Colors
+$cs-jedi-red: #990000;
+$cs-jedi-red-dm: saturate(#ff9999,100%);
+
+$background-color: #f9f7f7;
+$new-tag-color: #ec9106;
+$info-tag-color: saturate(#2482c5,20%);
+$link-color: saturate(#2482c5,20%);
+
+$background-color-dm: #111019;
+$new-tag-color-dm: #e8b000;
+$info-tag-color-dm: saturate(#4ca2df,100%);
+$link-color-dm: saturate(#4ca2df,100%);
+
+$latex-environment-border-color: $new-tag-color;
+$latex-environment-border-color-dm: $new-tag-color-dm;
+
+$dark-gray: #333;
+$light-gray: #ddd;
+
+// Whitespace
+$space-1: .5rem;
+$space-2: 1rem;
+$space-3: 2rem;
+$space-4: 4rem;
+
+// Borders
+$border-width: 2px;
+$border-radius: 3px;

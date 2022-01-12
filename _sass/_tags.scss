@@ -1,0 +1,29 @@
+.new-tag {
+	background-color: $new-tag-color;
+	color: white;
+	@media (prefers-color-scheme: dark) {
+		background-color: $new-tag-color-dm;
+		color: black;
+  }
+}
+
+.info-tag {
+	background-color: $info-tag-color;
+	color: white;
+	@media (prefers-color-scheme: dark) {
+		background-color: $info-tag-color-dm;
+		color: black;
+  }
+}
+
+.last-updated {
+	font-style: italic;
+	font-size: $h5;
+
+	background-color: lighten($light-gray, 10%);
+	color: lighten($dark-gray, 20%);
+	@media (prefers-color-scheme: dark) {
+		background-color: darken($dark-gray, 10%);
+		color: darken($light-gray, 10%);
+  }
+}

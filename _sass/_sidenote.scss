@@ -1,0 +1,95 @@
+article.blog.sidenotes{
+  width: 100%;
+  counter-reset: sidenote-counter;
+
+  .sidenote-number {
+      counter-increment: sidenote-counter;
+  }
+
+  .sidenote-number:after,
+  .sidenote:before {
+    position: relative;
+    vertical-align: baseline;
+  }
+
+  .sidenote-number:after {
+    content: counter(sidenote-counter);
+    top: -0.5rem;
+    left: 0.1rem;
+  }
+
+  .sidenote:before {
+    content: counter(sidenote-counter) " ";
+    font-size: 1rem;
+    top: -0.5rem;
+  }
+
+  .sidenote {
+    @extend .small;
+    display: none;
+    vertical-align: baseline;
+    position: relative;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  label {
+    cursor: pointer;
+    color: $link-color;
+  }
+
+  .margin-toggle:checked + .sidenote,
+  .margin-toggle:checked + .marginnote {
+      float: left;
+      left: 1rem;
+      clear: both;
+      width: 95%;
+      margin: 1rem 2.5%;
+      display: block;
+  }
+
+	input.margin-toggle {
+    display: none;
+  }
+
+  label.margin-toggle:not(.sidenote-number) {
+      display: inline;
+  }
+
+ 	@media screen and (min-width: $viewport-medium) {
+    width: percentage($blog-width);
+
+    img {
+      max-width: $measure-width;
+    }
+
+	  .margin-toggle:checked + .sidenote,
+	  .margin-toggle:checked + .marginnote,
+	  .sidenote {
+	    float: right;
+	    clear: right;
+	    left: 0;
+	  	width: percentage($sidenote-width/$blog-width);
+	    margin-right: -1 * percentage((1 - $blog-width)/$blog-width);
+	    margin-left: 0;
+	    margin-top: 0;
+	    margin-bottom: 0;
+	    display: block;
+	  }
+
+	  label.sidenote-number {
+	      display: inline;
+	  }
+
+	  label.margin-toggle:not(.sidenote-number) {
+	      display: none;
+	  }
+
+	  label {
+	    cursor: inherit;
+	    color: inherit;
+	  }
+  }
+}

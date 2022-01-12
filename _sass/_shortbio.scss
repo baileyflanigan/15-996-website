@@ -1,0 +1,23 @@
+.bio-name {
+	font-size: $bio-name-font-size	;
+	display: none;
+  font-family: $font-family;
+  font-weight: $heading-font-weight;
+  line-height: $heading-line-height;
+  margin-top: $space-2;
+  margin-bottom: $space-1;
+}
+
+.bio-container {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.bio-flex-gap {
+	min-width: 2em;
+	flex: auto;
+}
+
+.bio-picture {
+	display: none;
+}

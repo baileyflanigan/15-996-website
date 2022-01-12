@@ -1,0 +1,19 @@
+pre {
+  overflow-x: scroll;
+  cursor: text;
+  line-height: 1.125rem;
+  padding: $space-2;
+  margin-bottom: $space-1;
+}
+
+code {
+  font-family: $monospace-font-family;
+}
+
+.highlight table td {
+  padding: 5px;
+
+}
+.highlight table pre {
+	margin: 0;
+}

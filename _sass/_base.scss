@@ -1,0 +1,27 @@
+html, body {
+  height: auto;
+  min-height: 100%;
+
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  
+  // overflow-y: scroll;
+
+  color: $dark-gray;
+  background-color: $background-color;
+  @media (prefers-color-scheme: dark) {
+    color: $light-gray;
+    background-color: $background-color-dm;
+  }
+}
+
+hr {
+  border: 0;
+  border-bottom-style: solid;
+  border-bottom-width: $border-width;
+  border-bottom-color: $light-gray;
+  @media (prefers-color-scheme: dark) {
+    color: $dark-gray;
+  }
+}
