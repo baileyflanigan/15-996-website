@@ -4,8 +4,7 @@ author:      a
 baseurl:     "/~15996"
 url:         "https://cs.cmu.edu"
 header_pages:
-  - spring2022.md
-  - about.md
+  - pedag_found.md
   - faqs.md
   - archive.md
 keywords: []
@@ -27,3 +26,25 @@ exclude:
   - Gemfile.lock
   - vendor
   - CNAME
+
+blank-link: ""
+
+canvas-link: "https://canvas.cmu.edu/courses/27208"
+anonymous-feedback-link: "https://docs.google.com/forms/d/e/1FAIpQLSfPMQZefgWDn4odjfnx3S7-uAWjSLMidmmm-ULmFszCxsot_Q/viewform?usp=sf_link"
+google-drive-link: "https://drive.google.com/drive/folders/1nNA8pJixKEG00-6fQRz_2KeqaDUqSMNT?usp=sharing"
+syllabus-link: "https://docs.google.com/document/d/1iXlYBPZcX3x7XF3vyVXHU23NWST4ZHajMrlT43yaT54/edit?usp=sharing"
+discussion-guide-link: "https://docs.google.com/document/d/1A2qfT_kDWqUxDXFYNQSPZFEaDo3stIlnDqZcIzkIWPk/edit?usp=sharing"
+groups-and-lenses-link: "https://docs.google.com/spreadsheets/d/1WdLJx18KmNg5P4eGSLtvZUmgCnTI4leUvg73ak9_Bi0/edit?usp=sharing"
+project-overview-link: "https://docs.google.com/document/d/1uA8w5xIVxlHaaZdzHn5VjiWqzV2iN_B7BiO9ctFtLK8/edit?usp=sharing"
+glossary-link: "https://docs.google.com/document/d/1n_UvJCiebe6JXhFPeTtH_R58FSLpEDoP-6wXqCx3RSU/edit?usp=sharing"
+library-link: "https://docs.google.com/spreadsheets/d/1fIZ_Jk95J4ZjMw37tsLmqemLTUplo3BzfVrmmqMDM4A/edit?usp=sharing"
+
+pre-class-survey-link: ""
+pre-class-2-link: ""
+pre-class-3-link: ""
+pre-class-4-link: ""
+pre-class-5-link: ""
+pre-class-6-link: ""
+post-class-link: ""
+course-eval-link: ""
+

@@ -3,7 +3,7 @@ $font-family: 'Montserrat';
 $heading-font-family: 'Montserrat';
 $monospace-font-family: monospace;
 
-$base-font-size: 14px;
+$base-font-size: 100%;
 $base-font-viewport-small: 15px;
 $base-font-viewport-medium: 16px;
 $base-font-viewport-large: 16px;
@@ -21,15 +21,15 @@ $heading-font-weight: bold;
 
 $h1: 2rem;
 $h2: 1.75rem;
-$h3: 1.5rem;
+$h3: 1.25rem;
 $h4: 1rem;
-$h5: .875rem;
+$h5: 0.875rem;
 $h6: .75rem;
 
 $abbr-border-bottom: 1px black dotted;
 
 // Page width
-$measure-width: 48rem;
+$measure-width: 60rem;
 
 // Sidenote width
 $blog-width: 0.7;
