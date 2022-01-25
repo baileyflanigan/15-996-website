@@ -7,8 +7,3 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
 Header always set Content-Security-Policy "upgrade-insecure-requests;"
 
 
-
-AuthType Shibboleth
-ShibRequestSetting requireSession 1
-ShibRequestSetting redirectToSSL 443
-Require valid-user

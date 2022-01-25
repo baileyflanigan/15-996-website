@@ -10,8 +10,9 @@ title: Spring 2022
 
 
 {:refdef: style="text-align: center;"}
-<img src="figures/homepage_withdefs.png" style="width:75%">
+<img src="figures/homepagefig_withdefs.svg" style="width:75%">
 {: refdef}
+
 
 <br>
 
@@ -65,7 +66,7 @@ Office hours are by appointment (email instructors).
 ### Course structure (abridged) 
 This course is structured around the Jigsaw Method, an evidence-based approach to cooperative learning. Before reading this section, it may be helpful to read the longer *Course Structure* section on the Pedagogy page, which describes the components below in more detail within the Jigsaw framework. This will also be explained in week 1 of class.
 
-**Lens groups and synthesis groups**. In this class, students are grouped in two different ways: into *lens groups*, and into *synthesis groups*. Synthesis groups are the same each week; lens groups are by default the same each week, but students are permitted to trade on a week-to-week basis. See the <u>Assigned Groups and Lenses</u> (link coming soon) for group assignments.
+**Lens groups and synthesis groups**. In this class, each student belongs to two groups: a *lens group*, and a *synthesis group*. Synthesis groups are the same each week; lens groups are by default the same each week, but students are permitted to trade on a week-to-week basis. See the <u>Assigned Groups and Lenses</u> (link coming soon) for group assignments.
 <br>
 
 **In-class resources**. Each week of class generally has the same schedule (with small deviations in weeks 1 and 6), generally consisting of a guest-lecture followed by two rounds of discussion. The first round of discussion occurs in lens groups, and the second in synthesis groups. For each week, we provide detailed <u>In-Class Schedules</u> (link coming soon) to help students to follow along in class and provide all resources students will need to participate. 
@@ -127,13 +128,16 @@ For details on the subjects covered in each week, see the Syllabus.
             <td>thurs 3/3: &nbsp;class meets<br> <i>speakers: Angie Lusk, Darla Coleman,<br> + Dr. Viviana Ferrer-Medina</i> [slides]</td>
             <td>due fri 3/4: &nbsp; post-class reflection</td>
         </tr>
+         <tr>
+            <td colspan="3"><span class="cs-jedi"><b>Spring Break</b></span></td>  
+        </tr>
         <tr>
             <td colspan="3"><b>Week 6: &nbsp;Toward a more inclusive CS community</b></td>  
         </tr>
         <tr>
-            <td>due wed 3/9:&nbsp; week 6 pre-class activity </td>
-            <td>thurs 3/10: &nbsp;class meets<br><i>speakers: Dr. Judeth Choi<br> + student panel</i> [slides] </td>
-            <td><span class="cs-jedi">due thurs 3/10:</span>&nbsp; course evaluation</td>
+            <td>due wed 3/16:&nbsp; week 6 pre-class activity </td>
+            <td>thurs 3/17: &nbsp;class meets<br><i>speakers: Dr. Judeth Choi<br> + student panel</i> [slides] </td>
+            <td><span class="cs-jedi">due thurs 3/17:</span>&nbsp; course evaluation</td>
         </tr>
     </tbody>
 </table>
@@ -145,13 +149,15 @@ For details on the subjects covered in each week, see the Syllabus.
 
 
 ### Additional Enrichment Opportunities
+<br>
+**Course Library.** Using a budget provided by SCS, we have been able to purchase approximately 30 books to lend out to students. These books come highly recommended by your peers and other readers, and are written by authors at the forefront of the JEDI conversation. 
 
-#### Course Library
-Using a budget provided by SCS, we have been able to purchase approximately 30 books to lend out to students. These books come highly recommended by your peers and other readers, and are written by authors at the forefront of the JEDI conversation. **For more details, a list of available books, and instructions for how to check them out, see the [Class Library]({{site.library-link}})**.
+For more details, a list of available books, and instructions for how to check them out, see the [Class Library]({{site.library-link}}).
 
+<br>
+**Course Project.** The course project is optional, i.e., doing a project will not affect your grade. *However, this is a great opportunity:* with access to the support of course staff, you can do one of many pre-designed projects, all which are designed to help you explore a JEDI topic of your choice (maybe even one that is related to your research!), get involved in the CMU community, build your job application, and/or have a positive impact. Projects can be done individually or in groups of your choice. 
 
-#### Course Project
-The course project is optional, i.e., doing a project will not affect your grade. *However, this is a great opportunity:* with access to the support of course staff, you can do one of many pre-designed projects, all which are designed to help you explore a JEDI topic of your choice (maybe even one that is related to your research!), get involved in the CMU community, build your job application, and/or have a positive impact. Projects can be done individually or in groups of your choice. **For details, possible projects, see how to sign up to do a course project, see the [Project Overview]({{site.project-overview-link}}).**
+For details, possible projects, see how to sign up to do a course project, see the [Project Overview]({{site.project-overview-link}}).
 
 
 

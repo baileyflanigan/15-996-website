@@ -5,9 +5,9 @@ table {
     empty-cells: show;
     border: 1px solid;
     border-color: $light-gray;
-    @media (prefers-color-scheme: dark) {
-        border-color: $dark-gray;
-    }
+    //@media (prefers-color-scheme: dark) {
+    //    border-color: $dark-gray;
+    //}
 }
 
 table td,
@@ -16,24 +16,24 @@ table th {
     margin: 0;
     padding: 0.5em 1em; /* cell padding */
     border-color: $light-gray;
-    @media (prefers-color-scheme: dark) {
-        border-color: $dark-gray;
-    }
+    //@media (prefers-color-scheme: dark) {
+    //    border-color: $dark-gray;
+    //}
 }
 
 table tr {
     border-bottom: 1px solid;/*  inner column border */
     border-color:  $light-gray;
-    @media (prefers-color-scheme: dark) {
-        border-color: $dark-gray;
-    }
+    //@media (prefers-color-scheme: dark) {
+    //    border-color: $dark-gray;
+    //}
 }
 
 table thead {
     text-align: left;
     vertical-align: bottom;
     background-color: lighten($light-gray, 10%);
-    @media (prefers-color-scheme: dark) {
-        background-color: darken($dark-gray, 10%);
-    }    
+    //@media (prefers-color-scheme: dark) {
+    //    background-color: darken($dark-gray, 10%);
+    //}    
 }

@@ -114,9 +114,9 @@ abbr {
 
 p {
   color: $dark-gray;
-  @media (prefers-color-scheme: dark) {
-    color: $light-gray;
-  }
+  //@media (prefers-color-scheme: dark) {
+  //  color: $light-gray;
+  //}
   line-height: $line-height;
 }
 
@@ -137,7 +137,7 @@ sup {
 
 body > h1, h2, h3, h4, h5, h6 {
   color: $cs-jedi-red;
-  @media (prefers-color-scheme: dark) {
-    color: $cs-jedi-red-dm;
-  }
+  //@media (prefers-color-scheme: dark) {
+  //  color: $cs-jedi-red-dm;
+  //}
 }

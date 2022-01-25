@@ -1,8 +1,8 @@
 a {
   color: $link-color;
-  @media (prefers-color-scheme: dark) {
-    color: $link-color-dm;
-  }
+  //@media (prefers-color-scheme: dark) {
+  //  color: $link-color-dm;
+  //}
 }
 
 a:hover,
@@ -10,7 +10,7 @@ a:focus,
 a:active {
   color: darken($link-color, 30%);
   text-decoration: underline;
-  @media (prefers-color-scheme: dark) {
-    color: $light-gray;
-  }
+  //@media (prefers-color-scheme: dark) {
+  //  color: $light-gray;
+  //}
 }

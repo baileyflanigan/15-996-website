@@ -10,10 +10,10 @@ html, body {
 
   color: $dark-gray;
   background-color: $background-color;
-  @media (prefers-color-scheme: dark) {
-    color: $light-gray;
-    background-color: $background-color-dm;
-  }
+ // @media (prefers-color-scheme: dark) {
+ //   color: $light-gray;
+ //   background-color: $background-color-dm;
+  //}
 }
 
 hr {
@@ -21,7 +21,7 @@ hr {
   border-bottom-style: solid;
   border-bottom-width: $border-width;
   border-bottom-color: $light-gray;
-  @media (prefers-color-scheme: dark) {
-    color: $dark-gray;
-  }
+  //@media (prefers-color-scheme: dark) {
+  //  color: $dark-gray;
+  //}
 }
