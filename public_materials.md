@@ -5,10 +5,11 @@ shorttitle: Downloads
 title: Downloadable Materials
 ---
 
-The materials for this course are licensed under a creative commons license. This license permits anyone to freely use and adapt these materials. Users are not permitted to commercialize the materials, and must give attribution (citation information below) to the creators. For details on the terms of this license, see the link to the license in the footer.
+These materials are open-source and free for use or adaptation (see licensing and citation information below). Enclosed in the downloadable zip files are materials for both students and instructors, all in PDF form. If you have questions about using these materials, please contact Bailey Flanigan (bflaniga @ andrew dot cmu dot edu).
+
 
 ### Materials by semester (downloads)
-<a href="./docs/CSJEDI-Spring22-materials.zip" download="CSJEDI-Spring22-materials.zip">Spring 2022 Materials</a>
+<a href="./docs/CSJEDI-Spring22-materials.zip" download="CSJEDI-Spring22-materials.zip">**Spring 2022 Materials**</a>
 
 
 
@@ -16,6 +17,9 @@ The materials for this course are licensed under a creative commons license. Thi
 
 
 
+**The materials for this course are licensed under a creative commons license.** This license permits anyone to freely use and adapt these materials. Users are not permitted to commercialize the materials, and must give attribution (citation information below) to the creators. For details on the terms of this license, see the link to the license in the footer.
+
+**Citation:** CS-JEDI Curriculum, Spring (Year). CS-JEDI Working Group. https://www.cs.cmu.edu/~15996. Accessed (Date).
 
 
 <br><br><br>
