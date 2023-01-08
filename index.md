@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /
-shorttitle: Spring 2022
-title: Spring 2022
+shorttitle: Home
+title: Home
 ---
 
 ### What is JEDI?
@@ -32,7 +32,7 @@ Designed specifically with the needs of PhD students in mind, this course is sho
 <br>
 
 
-### Logistics and Resources (Spring 2022)
+### Logistics and Resources (Spring 2023)
 <br>
 **Instructors** <br>
 Ananya Joshi &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <font size="2"> &nbsp;&nbsp; </font> (she/her) &nbsp; &nbsp; aajoshi@andrew &nbsp; &nbsp;  <font size="2"> &nbsp; </font> (student instructor)<br>
@@ -116,12 +116,9 @@ This table contains the weekly class schedule, due dates, links to homeworks, an
             <td colspan="3"><b>Week 5: &nbsp;Intent versus impact</b></td>  
         </tr>
         <tr> 
-            <td>sun 2/18:&nbsp; <a href="{{site.pre-class-5-link}}">pre-class activity 5</a>  due </td>
-            <td>mon 2/19: &nbsp;class meets [<a href="{{site.lec-slides-5-link}}">lecture slides</a>]</td>
-            <td>tues 2/20: &nbsp; post-class reflection due</td>
-        </tr>
-         <tr>
-            <td colspan="3"><span class="cs-jedi"><b>Spring Break</b></span></td>  
+            <td>sun 2/19:&nbsp; <a href="{{site.pre-class-5-link}}">pre-class activity 5</a>  due </td>
+            <td>mon 2/20: &nbsp;class meets [<a href="{{site.lec-slides-5-link}}">lecture slides</a>]</td>
+            <td>tues 2/21: &nbsp; post-class reflection due</td>
         </tr>
         <tr>
             <td colspan="3"><b>Week 6: &nbsp; Allyship and promoting positive change</b></td>  
