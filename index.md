@@ -35,138 +35,110 @@ Designed specifically with the needs of PhD students in mind, this course is sho
 ### Logistics and Resources (Spring 2022)
 <br>
 **Instructors** <br>
-Bailey Flanigan &nbsp; (she/her)  &nbsp; &nbsp; bflaniga@andrew &nbsp; <font size="1"> &nbsp; </font>  (student instructor)<br> 
-Ananya Joshi &nbsp; &nbsp; <font size="2"> &nbsp; </font> (she/her) &nbsp; &nbsp; aajoshi@andrew &nbsp; &nbsp;  <font size="2"> &nbsp; </font> (student instructor)<br> 
-Zico Kolter &nbsp; <font size="1"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </font>  (he/him) &nbsp; &nbsp;  <font size="1"> &nbsp; </font>  zkolter@andrew  &nbsp; &nbsp; <font size="2"> &nbsp; </font>(faculty instructor)<br>
+Ananya Joshi &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <font size="2"> &nbsp;&nbsp; </font> (she/her) &nbsp; &nbsp; aajoshi@andrew &nbsp; &nbsp;  <font size="2"> &nbsp; </font> (student instructor)<br>
+Victor Akinwande <font size="2"> &nbsp; </font> (he/him) &nbsp; &nbsp; vakinwan@andrew &nbsp;   <font size="2"> </font> (student instructor)<br> 
+Zico Kolter &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <font size="1"> &nbsp; &nbsp; &nbsp;  </font>  (he/him) &nbsp; &nbsp;  <font size="1"> &nbsp; </font>  zkolter@andrew  &nbsp; &nbsp; <font size="2"> &nbsp; </font>(faculty instructor)<br>
 
 *For a primer on pronouns and why we include them, see [mypronouns.org](https://www.mypronouns.org/what-and-why).*
 
 
 
 **Course Time and Location** <br>
-Class is held <u>Thursdays, 11:50 - 1:10pm ET</u>. This class is <u>remote</u> (Zoom link is posted on Canvas).<br>
+Class is held Mondays, 9:30 - 10:50am ET in GHC 4303. <br>
 Office hours are by appointment (email instructors).  
 
-*Important:* Since this course is remote, we recommend students plan ahead to find a private place from which they can freely participate in in-class discussions. You can reserve a private rooms at various locations on campus such as [the CMU libraries](https://www.library.cmu.edu/services/study-spaces). You can also contact your advisor's admin to help you find a reservable space in GHC.
 
 **Main Course Resources** <br>
-- **[Syllabus]({{site.syllabus-link}})**: The syllabus contains all course policies, plus more a more detailed version of the information on this webpage
-- **[Discussion Guide]({{site.discussion-guide-link}})**: This is the main resource for supporting inclusive in-class discussions. It contains the class community guidelines, a list of inclusive discussion strategies, instructions for synthesis group activities, and options for resolving issues.
-- **Class Glossary (link coming soon)**: Definitions and explanations of terminology students may encounter throughout this course. 
-- **[Canvas]({{site.canvas-link}})**: Homework is submitted and graded here, and you can also find the Zoom link here.
+- **[Syllabus]({{site.syllabus-link}})**: Contains all course policies and an overview of weekly course topics.
+- **[Discussion Guide]({{site.discussion-guide-link}})**: The main resource for supporting inclusive in-class discussions. It contains the class community guidelines, a list of inclusive discussion strategies, instructions for synthesis group activities, and options for resolving issues.
+- **[In-Class Schedules]({{site.schedules-link}})**: Full description of each week's in-class schedule. Includes all resources students need to participate. 
+- **[Assigned Groups and Lenses]({{site.groups-and-lenses-link}})**: In this class, students are assigned to *lenses* and *synthesis groups*. Synthesis groups are the same each week; assigned lenses are randomized. For details on this, see the "Pedagogy" page of this site.
 - **[Class Google Drive]({{site.google-drive-link}})**: Contains most course materials, plus folders containing collaborative resources for each synthesis group. We treat these documents as living documents, and we welcome students to use the comment feature to make suggestions and ask questions in the margins of any document.
+- **[Make-up Assignment]({{site.make-up-link}})**: Instructions for the make-up assignment, to be done when a student misses over 50% of a class.
 - **[Anonymous Feedback Portal]({{site.anonymous-feedback-link}})**: Anonymously leave feedback and suggestions about the course here.
+<br>
 
-
+**Additional Resources and References**<br>
+- [**Course Library.**]({{site.library-link}}): Spreadsheet where students (and any other CMU grad student) can check out books from the 15-996 library. 
+- **[Course Project]({{site.project-overview-link}})**: Information on the (optional) course project. This is a great opportunity for students!
+- **[Glossary]({{site.glossary-link}})**: Definitions and explanations of terminology students may encounter throughout this course.
+- **[Supportive resources at CMU (Reference)]({{site.supportive-resources-link}})**: An instructor-compiled document listing several resources available to students seeking support and community.
+- **[Ways to get involved at CMU (Reference)]({{site.get-involved-link}})**: An instructor-compiled document describing ongoing initiatives toward strengthening our community with which students can get involved, plus avenues to start your own such initiative.
 
 <br>
 
-
-
-### Course structure (abridged) 
-This course is structured around the Jigsaw Method, an evidence-based approach to cooperative learning. Before reading this section, it may be helpful to read the longer *Course Structure* section on the Pedagogy page, which describes the components below in more detail within the Jigsaw framework. This will also be explained in week 1 of class.
-
-**Lens groups and synthesis groups**. In this class, each student belongs to two groups: a *lens group*, and a *synthesis group*. Synthesis groups are the same each week; lens groups are by default the same each week, but students are permitted to trade on a week-to-week basis. See the <u>Assigned Groups and Lenses</u> (link coming soon) for group assignments.
-<br>
-
-**In-class resources**. Each week of class generally has the same schedule (with small deviations in weeks 1 and 6), generally consisting of a guest-lecture followed by two rounds of discussion. The first round of discussion occurs in lens groups, and the second in synthesis groups. For each week, we provide detailed <u>In-Class Schedules</u> (link coming soon) to help students to follow along in class and provide all resources students will need to participate. 
-
-**Out-of-class work**. In a typical week, students must complete two out-of-class assignments: *pre-class activities* (due the day *before class*), and *post-class reflections* (due the day *after class*). 
-
-<br>
 
 ### Weekly schedule and assignments
-The table below contains due dates and links to lecture slides, homeworks (links will become live as they become relevant). Note that the instructions for the post-class reflection are consistent week-to-week, so they will be linked only in week 1. Exceptions to the typical weekly schedule are identified in red. **All deadlines in this class occur at 11:59pm ET.** 
-
-For details on the subjects covered in each week, see the Syllabus. 
+This table contains the weekly class schedule, due dates, links to homeworks, and links to lecture slides. In a typical week, students must complete two out-of-class assignments: *pre-class activities* (due the day *before class*), and *post-class reflections* (due the day *after class*). All assignments are submitted via [Canvas]({{site.canvas-link}}). Note that the instructions for the post-class reflection are consistent week-to-week, so they will be linked only in week 1. **All deadlines in this class occur at 11:59pm ET.** 
 
 
 <table>
 	 <colgroup>
        <col span="1" style="width: 36%;">
-       <col span="1" style="width: 35%;">
-       <col span="1" style="width: 29%;">
+       <col span="1" style="width: 32%;">
+       <col span="1" style="width: 32%;">
     </colgroup>
     <tbody>
         <tr>
-            <td colspan="3"><b>Week 1: &nbsp;Introduction, identity, and inclusive discussion</b></td>  
+            <td colspan="3"><b>Week 1: &nbsp;Introduction, identity, and intersectionality</b></td>  
         </tr>
         <tr>
-            <td><span class="cs-jedi">due mon 1/31: </span> pre-course surveys (in email) </td>
-            <td>thurs 2/3: &nbsp; class meets <br><i>speakers: instructors</i> [slides]</td>
-            <td>due fri 2/4: &nbsp;<a href="https://docs.google.com/document/d/1cXwAfwuPtx6e6q7-Xtf6jJ8AUdnaSwBhm4aKMkgWWQo/edit?usp=sharing">post-class reflection</a></td>
+            <td>mon 1/13: pre-course surveys due<br>
+            sun 1/22:&nbsp; <a href="{{site.pre-class-1-link}}">pre-class activity 1</a> due </td>
+            <td>mon 1/23: &nbsp; class meets [<a href="{{site.lec-slides-1-link}}">lecture slides</a>]</td>
+            <td>tues 1/24: &nbsp;<a href="{{site.post-class-link}}">post-class reflection</a> due </td>
         </tr>
         <tr>
-            <td colspan="3"><b>Week 2: &nbsp;Foundations of inequality</b></td>  
+            <td colspan="3"><b>Week 2: &nbsp;Well-being in the PhD program</b></td>  
         </tr>
         <tr>
-            <td>due wed 2/9:&nbsp; week 2 pre-class activity </td>
-            <td>thurs 2/10: &nbsp; class meets <br><i>speaker: Dr. LD Ortis</i> [slides]</td>
-            <td>due fri 2/11: &nbsp; post-class reflection</td>
+            <td>sun 1/29:&nbsp; <a href="{{site.pre-class-2-link}}">pre-class activity 2</a> due </td>
+            <td>mon 1/30: &nbsp; class meets [<a href="{{site.lec-slides-2-link}}">lecture slides</a>] </td>
+            <td>tues 1/31: &nbsp; post-class reflection due</td>
         </tr>
         <tr>
-            <td colspan="3"><b>Week 3: &nbsp;Foundations of identity safety</b></td>  
+            <td colspan="3"><b>Week 3: &nbsp;Frameworks for understanding diverse experiences in CS, higher-ed, and the US context</b></td>  
         </tr>
         <tr>
-            <td>due wed 2/16:&nbsp; week 3 pre-class activity </td>
-            <td>thurs 2/17: class meets <br> <i>speaker: Erica Cruz</i> [slides]</td>
-            <td>due fri 2/18:&nbsp; post-class reflection</td>
+            <td>sun 2/5:&nbsp; <a href="{{site.pre-class-3-link}}">pre-class activity 3</a> due </td>
+            <td>mon 2/6: class meets [<a href="{{site.lec-slides-3-link}}">lecture slides</a>]</td>
+            <td>tues 2/7:&nbsp; post-class reflection due</td>
         </tr>
         <tr>
-            <td colspan="3"><b>Week 4: &nbsp;Intent versus impact</b></td> 
+            <td colspan="3"><b>Week 4: &nbsp;Creating identity safety in research settings</b></td> 
         </tr>
         <tr>
-            <td>due wed 2/23: &nbsp; week 4 pre-class activity </td>
-            <td>thurs 2/24: class meets<br> <i>speaker: Professor Geoff Kaufman</i> [slides]</td>
-            <td>due fri 2/25: &nbsp; post-class reflection</td>
+            <td>sun 2/12: &nbsp; <a href="{{site.pre-class-4-link}}">pre-class activity 4</a> due </td>
+            <td>mon 2/13: class meets [<a href="{{site.lec-slides-4-link}}">lecture slides</a>]</td>
+            <td>tues 2/14: &nbsp; post-class reflection due</td>
         </tr>
         <tr>
-            <td colspan="3"><b>Week 5: &nbsp;Well-being in the PhD Program</b></td>  
+            <td colspan="3"><b>Week 5: &nbsp;Intent versus impact</b></td>  
         </tr>
-        <tr>
-            <td>due wed 3/2:&nbsp; week 5 pre-class activity </td>
-            <td>thurs 3/3: &nbsp;class meets<br> <i>speakers: Angie Lusk, Darla Coleman,<br> + Dr. Viviana Ferrer-Medina</i> [slides]</td>
-            <td>due fri 3/4: &nbsp; post-class reflection</td>
+        <tr> 
+            <td>sun 2/18:&nbsp; <a href="{{site.pre-class-5-link}}">pre-class activity 5</a>  due </td>
+            <td>mon 2/19: &nbsp;class meets [<a href="{{site.lec-slides-5-link}}">lecture slides</a>]</td>
+            <td>tues 2/20: &nbsp; post-class reflection due</td>
         </tr>
          <tr>
             <td colspan="3"><span class="cs-jedi"><b>Spring Break</b></span></td>  
         </tr>
         <tr>
-            <td colspan="3"><b>Week 6: &nbsp;Toward a more inclusive CS community</b></td>  
+            <td colspan="3"><b>Week 6: &nbsp; Allyship and promoting positive change</b></td>  
         </tr>
         <tr>
-            <td>due wed 3/16:&nbsp; week 6 pre-class activity </td>
-            <td>thurs 3/17: &nbsp;class meets<br><i>speakers: Dr. Judeth Choi<br> + student panel</i> [slides] </td>
-            <td><span class="cs-jedi">due thurs 3/17:</span>&nbsp; course evaluation</td>
+            <td>sun 2/26:&nbsp; <a href="{{site.pre-class-6-link}}">pre-class activity 6</a> due </td>
+            <td>mon 2/27: &nbsp;class meets [<a href="{{site.lec-slides-6-link}}">lecture slides</a>] </td>
+            <td>mon 2/27: &nbsp; course evaluation due</td>
         </tr>
     </tbody>
-</table>
-
-
-
-<br><br>
-
-
-
-### Additional Enrichment Opportunities
+</table> 
 <br>
-**Course Library.** Using a budget provided by SCS, we have been able to purchase approximately 30 books to lend out to students. These books come highly recommended by your peers and other readers, and are written by authors at the forefront of the JEDI conversation. 
+*Note:* If there is a link in this table that takes you back to the top of the "home" page, the document is not available.
 
-For more details, a list of available books, and instructions for how to check them out, see the [Class Library]({{site.library-link}}).
 
+<br><br><br>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> &nbsp; &nbsp; This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 <br>
-**Course Project.** The course project is optional, i.e., doing a project will not affect your grade. *However, this is a great opportunity:* with access to the support of course staff, you can do one of many pre-designed projects, all which are designed to help you explore a JEDI topic of your choice (maybe even one that is related to your research!), get involved in the CMU community, build your job application, and/or have a positive impact. Projects can be done individually or in groups of your choice. 
-
-For details, possible projects, see how to sign up to do a course project, see the [Project Overview]({{site.project-overview-link}}).
-
-
-
-
-<br>
-
-### For course policies, see the Syllabus.
-
-Website development supported by Alex Wang.
-
-
+Website contributors: Alex Wang, Bailey Flanigan, Paul Gölz
 

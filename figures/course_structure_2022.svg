@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1600pt" height="300pt" viewBox="0 0 1600 300">
+<g enable-background="new">
+<clipPath id="cp0">
+<path transform="matrix(1,0,0,-1,0,300)" d="M 0 0 L 1600 0 L 1600 300 L 0 300 Z "/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<path transform="matrix(1,0,0,-1,0,300)" d="M 0 300 L 1600 300 L 1600 0 L 0 0 Z " fill="#f9f7f7"/>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,300)" d="M 600.5677 170.8321 C 611.3302 160.0697 611.3302 142.6204 600.5677 131.858 C 589.8053 121.0956 572.356 121.0956 561.5936 131.858 C 550.8312 142.6204 550.8312 160.0697 561.5936 170.8321 C 572.356 181.5945 589.8053 181.5945 600.5677 170.8321 Z M 600.5677 170.8321 " fill="#8a0000"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,300)" d="M 829.6802 170.8321 C 840.4426 160.0697 840.4426 142.6204 829.6802 131.858 C 818.9178 121.0956 801.4684 121.0956 790.706 131.858 C 779.9436 142.6204 779.9436 160.0697 790.706 170.8321 C 801.4684 181.5945 818.9178 181.5945 829.6802 170.8321 Z M 829.6802 170.8321 " fill="#8a0000"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,300)" d="M 1058.793 170.8321 C 1069.555 160.0697 1069.555 142.6204 1058.793 131.858 C 1048.03 121.0956 1030.581 121.0956 1019.819 131.858 C 1009.056 142.6204 1009.056 160.0697 1019.819 170.8321 C 1030.581 181.5945 1048.03 181.5945 1058.793 170.8321 Z M 1058.793 170.8321 " fill="#8a0000"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,1,42.96199,148.6549)" stroke-width="10" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#5e5e5e" d="M 0 0 L 416.1462 0 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,1,480.891,148.6549)" stroke-width="10" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#8a0000" d="M 0 0 L 776.4248 0 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,1,1276.851,148.6549)" stroke-width="10" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#5e5e5e" d="M 0 0 L 263.6635 0 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,300)" d="M 484.5322 170.8321 C 495.2946 160.0697 495.2946 142.6204 484.5322 131.858 C 473.7697 121.0956 456.3204 121.0956 445.558 131.858 C 434.7956 142.6204 434.7956 160.0697 445.558 170.8321 C 456.3204 181.5945 473.7697 181.5945 484.5322 170.8321 Z M 484.5322 170.8321 " fill="#8a0000"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,300)" d="M 1287.905 170.8321 C 1298.667 160.0697 1298.667 142.6204 1287.905 131.858 C 1277.143 121.0956 1259.693 121.0956 1248.931 131.858 C 1238.169 142.6204 1238.169 160.0697 1248.931 170.8321 C 1259.693 181.5945 1277.143 181.5945 1287.905 170.8321 Z M 1287.905 170.8321 " fill="#8a0000"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,300)" d="M 67.43161 170.8321 C 78.19402 160.0697 78.19402 142.6204 67.43161 131.858 C 56.6692 121.0956 39.21988 121.0956 28.45747 131.858 C 17.69506 142.6204 17.69506 160.0697 28.45747 170.8321 C 39.21988 181.5945 56.6692 181.5945 67.43161 170.8321 Z M 67.43161 170.8321 " fill="#5e5e5e"/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,300)" d="M 1545.952 170.8321 C 1556.715 160.0697 1556.715 142.6204 1545.952 131.858 C 1535.19 121.0956 1517.741 121.0956 1506.978 131.858 C 1496.216 142.6204 1496.216 160.0697 1506.978 170.8321 C 1517.741 181.5945 1535.19 181.5945 1545.952 170.8321 Z M 1545.952 170.8321 " fill="#5e5e5e"/>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 146.8811 48.024507)" font-size="40" font-family="Nunito"><tspan y="0" x="0 23.32 37.399999 59.12 76.68 95.2 107.03999 128.23999 147.48 166.72 177.04001 198.24 216.76001 231.00002 240.28002 260.88 270.16 284.4">pre-class activity</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#8a0000" xml:space="preserve" transform="matrix(1 0 -0 1 240.5694 275.73579)" font-size="40" font-family="Nunito"><tspan y="0" x="0 34.24 43.520006 66.240009 89.560009 102.880008 125.32001 137.16 159.88 181.16 200.40001 219.64002 229.96002 253.28003 267.40003 288.60005 307.12004 321.36003 330.64 348.76">mindfulness practice</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#8a0000" xml:space="preserve" transform="matrix(1 0 -0 1 578.7568 48.024507)" font-size="40" font-family="Nunito"><tspan y="0" x="0 23.44 45.880006 67.16 86.20001 100.20001 110.52001 122.16002 143.44002 161.96002 175.96002 198.40003 212.48003">guest lecture</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#8a0000" xml:space="preserve" transform="matrix(1 0 -0 1 691.8096 275.73579)" font-size="40" font-family="Nunito"><tspan y="0" x="0 11.64 32.920003 55.640005 74.880008 85.200008 108.64001 122.72001 144.96 167.40001 190.72 201.04001 224.36002 233.64002 252.88002 271.40003 293.84004 313.08003 332.32 341.6 363.84">lens group discussion</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#8a0000" xml:space="preserve" transform="matrix(1 0 -0 1 926.5092 48.024507)" font-size="40" font-family="Nunito"><tspan y="0" x="0 18.840003 39.4 62.120004 76.36 99.08 120.36 139.6 148.88 168.12001 178.44002 201.88002 215.96002 238.20003 260.64 283.96003 294.28004 317.60005 326.88005 346.12004 364.64 387.08003 406.32 425.56 434.84 457.08">synthesis group discussion</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+</g>
+<g id="Layer-1" data-name="P">
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 1166.322 275.04566)" font-size="40" font-family="Nunito"><tspan y="0" x="0 23.32 45.56 64.600009 78.200008 95.76 114.28 126.119998 147.31999 166.56 185.8 196.12001 210.20001">post-class re</tspan></text>
+<g id="Layer-2" data-name="Span">
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 1166.322 275.04566)" font-size="40" font-family="Nunito"><tspan y="0" x="231.48">&#xfb02;</tspan></text>
+</g>
+<text fill="#5e5e5e" xml:space="preserve" transform="matrix(1 0 -0 1 1166.322 275.04566)" font-size="40" font-family="Nunito"><tspan y="0" x="256.44 277.72 296.24 310.47999 319.75999 341.99998">ection</tspan></text>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(0,-1,1,0,259.9445,135.8996)" stroke-width="4" stroke-linecap="round" stroke-dasharray=".004,12" stroke-dashoffset=".5" stroke-linejoin="round" fill="none" stroke="#5e5e5e" d="M 0 0 L 62 0 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(0,-1,1,0,1130.611,135.8996)" stroke-width="4" stroke-linecap="round" stroke-dasharray=".004,12" stroke-dashoffset=".5" stroke-linejoin="round" fill="none" stroke="#8a0000" d="M 0 0 L 62 0 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(0,-1,1,0,695.6368,135.8996)" stroke-width="4" stroke-linecap="round" stroke-dasharray=".004,12" stroke-dashoffset=".5" stroke-linejoin="round" fill="none" stroke="#8a0000" d="M 0 0 L 62 0 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(0,-1,1,0,523.0629,235.64704)" stroke-width="4" stroke-linecap="round" stroke-dasharray=".004,12" stroke-dashoffset=".5" stroke-linejoin="round" fill="none" stroke="#8a0000" d="M 0 0 L 62 0 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(0,-1,1,0,924.7493,235.64704)" stroke-width="4" stroke-linecap="round" stroke-dasharray=".004,12" stroke-dashoffset=".5" stroke-linejoin="round" fill="none" stroke="#8a0000" d="M 0 0 L 62 0 "/>
+</g>
+<g id="Layer-1" data-name="P">
+<path transform="matrix(0,-1,1,0,1408.682,235.64704)" stroke-width="4" stroke-linecap="round" stroke-dasharray=".004,12" stroke-dashoffset=".5" stroke-linejoin="round" fill="none" stroke="#5e5e5e" d="M 0 0 L 62 0 "/>
+</g>
+</g>
+</g>
+</svg>

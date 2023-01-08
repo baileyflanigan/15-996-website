@@ -24,16 +24,16 @@ This course aims to increase students' abilities to:
 
 ### Course structure
 
-#### The Jigsaw Method
-The course is structured around the [_Jigsaw Method_](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique)), a cooperative learning method that research has shown to strengthen community among students. The high-level approach is to assign different subgroups of the class a different piece of an assignment, and then have them synthesize their work across pieces. We implement this method via *core questions* and *lenses*, and by grouping students into *lens groups* and *synthesis groups*, as defined below.
+#### Collaborative learning 
+This course is structured around collaborate learning. The high-level approach is that students learn different sub-topics each week, and then they come together and synthesize what they've learned to collectively develop a stronger understanding of the week's more general topic. We implement this approach via *core questions*, *lenses*, and *synthesis groups*, as defined below.
 
-**Core Questions and Lenses**. In our class, the central assignment on which students collaborate is answering the *core question*---a concrete, but conceptually vast question---and the "pieces" of the assignment are *lenses*---angles through which one can approach that question. Here is a visual representation of how lenses can be seen as the pieces of the "Jigsaw", and how they provide differing ways to approach the central core question:
+**Core questions and lenses**. In this class, the central task on which students collaborate is answering the *core question*---a concrete, but conceptually vast question. Students can approach this question through one of multiple *lenses*---concrete sub-topics which inform the core question:
 
 {:refdef: style="text-align: center;"}
 <img src="figures/lenses_coreQs.svg" style="width:25%">
 {: refdef}
 
-**Lens Groups and Synthesis Groups**. To carry out the Jigsaw method, students are grouped in two different ways: into *lens groups*, and into *synthesis groups*. The students in a given lens group are assigned *the same lens*, for within-lens knowledge sharing; the students a given synthesis group are assigned *different lenses*, for cross-lens knowledge sharing. Synthesis groups are the same each week; lens groups are by default the same each week, but students are permitted to trade on a week-to-week basis. During class, students will first meet with their lens group, and then their synthesis group, as described below. 
+**Lenses and synthesis groups**. *Synthesis groups* are assigned groups of 4-5 students, and they are consistent week to week. Students engage in free-form discussion about the current week's topic within these groups. Each student is assigned a *lens* each week, which they investigate independently in their pre-class activity. These lenses are assigned randomly, but in a way that is crosscutting to students' synthesis group assignments, as depicted in the figure below. This way, every synthesis group contains at least one member who studied each lens, facilitating the collaborative sharing of knowledge and perspectives within groups.
 
 {:refdef: style="text-align: center;"}
 <img src="figures/synthgroups_lensgroups.svg" style="width:65%">
@@ -46,7 +46,7 @@ The course is structured around the [_Jigsaw Method_](https://en.wikipedia.org/w
 **A typical week of the course has the following schedule**, where gray is out-of-class time and red is in-class time:
 
 {:refdef: style="text-align: center;"}
-<img src="figures/course_structure.svg" style="width:65%">
+<img src="figures/course_structure_2023.svg" style="width:65%">
 {: refdef}
 
 <br>
@@ -59,16 +59,20 @@ Pre-class activities are completed individually. Their purpose is to help studen
 We begin class with 5 minutes of mindfulness practice via the Headspace App. This exercise is dual-purpose: it gives students a few quiet moments to relax and let go of external distractions, and it also exposes them to mindfulness as a well-being tool that they can use throughout grad school (CMU PhD students are given access to the Headspace app). For more information on how mindfulness practice has been shown benefit students' well-being, see, e.g., research by the [University of Wisconsin Center for Healthy Minds](https://centerhealthyminds.org/science/publications).
 
 **guest lecture**<br>
-For 30 minutes of class, students hear from a guest lecturer who is a domain expert on an aspect of the current week's topic. This guest lecture serves as the main source, other than the resources in the pre-class activities, through which students receive expert information.
-
-**lens group discussion**<br> 
-Students participate in a moderated, free-form discussion with all other students who were assigned the same lens. Generally, there are three lenses, and the three corresponding moderators are the two student instructors and the guest-lecturer. In this discussion, students pool their ideas, evidence, and perspectives on their common lens, and have the chance to ask questions that came up for them in their research.
+For 40 minutes, students hear from a guest lecturer, who is a domain expert on an aspect of the current week's topic. This guest lecture serves as the main source, other than the resources in the pre-class activities, through which students receive expert information. 
 
 **synthesis group discussion**<br> 
-Students then bring the information they have gathered about their lens to their synthesis group. To synthesize information across their lenses, each synthesis group works together to do their choice of many possible *synthesis activities*, as listed in the Discussion Guide (linked on the "Home" page). At the end of class, synthesis group share some quick takeaways from their activity with the class.
+Students then meet with their synthesis group for 25 minutes to share what they've learned about their lens through free-form discussion. At the end of class, we allot 10 additional minutes for synthesis group to share takeaways from their discussion with the broader class.
 
 **post-class reflection**<br>
 After class, students complete a post-class reflection. This reflection is designed to help them address any lingering questions or ideas that they came across during the current week. These reflections are designed to take approximately 30 minutes and can take many forms (choices are provided in the Post-Class Reflection instructions, linked on the "Home" page). All formats require a short submission summarizing takeaways from the student's chosen reflection activity.
 
+### Main Curriculum Contributors
+Abhinav Adduri, Valerie Chen, Judeth Choi, Bailey Flanigan, Paul Gölz, Anson Kahng, Pallavi Koppol, Ananya Joshi, Tabitha Lee, Sara McAllister, Sam Reig, Ziv Scully, Catalina Vajiac, Alex Wang, Josh Williams, Liv Zane, with expert consulting from Dr. Alexis Adams from the CMU Eberly Center for Teaching and Learning.
 
+
+<br><br><br>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> &nbsp; &nbsp; This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+<br>
+Website contributors: Alex Wang, Bailey Flanigan, Paul Gölz
 
