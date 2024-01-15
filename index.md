@@ -35,7 +35,7 @@ Designed specifically with the needs of PhD students in mind, this course is sho
 ### Logistics and Resources (Spring 2023)
 <br>
 **Instructors** <br>
-Gabriele Oliaro &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <font size="2"> &nbsp;&nbsp; </font> (he/him) &nbsp; &nbsp; aajoshi@andrew &nbsp; &nbsp;  <font size="2"> &nbsp; </font> (student instructor)<br>
+Gabriele Oliaro &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <font size="2"> &nbsp;&nbsp; </font> (he/him) &nbsp; &nbsp; goliaro@andrew &nbsp; &nbsp;  <font size="2"> &nbsp; </font> (student instructor)<br>
 Victor Akinwande <font size="2"> &nbsp; </font> (he/him) &nbsp; &nbsp; vakinwan@andrew &nbsp;   <font size="2"> </font> (student instructor)<br> 
 Zico Kolter &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <font size="1"> &nbsp; &nbsp; &nbsp;  </font>  (he/him) &nbsp; &nbsp;  <font size="1"> &nbsp; </font>  zkolter@andrew  &nbsp; &nbsp; <font size="2"> &nbsp; </font>(faculty instructor)<br>
 
