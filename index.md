@@ -124,9 +124,9 @@ This table contains the weekly class schedule, due dates, links to homeworks, an
             <td colspan="3"><b>Week 6: &nbsp; Allyship and promoting positive change</b></td>  
         </tr>
         <tr>
-            <td>sun 2/26:&nbsp; <a href="{{site.pre-class-6-link}}">pre-class activity 6</a> due </td>
-            <td>mon 2/27: &nbsp;class meets [<a href="{{site.lec-slides-6-link}}">lecture slides</a>] </td>
-            <td>mon 2/27: &nbsp; course evaluation due</td>
+            <td>mon 2/26:&nbsp; <a href="{{site.pre-class-6-link}}">pre-class activity 6</a> due </td>
+            <td>tues 2/27: &nbsp;class meets [<a href="{{site.lec-slides-6-link}}">lecture slides</a>] </td>
+            <td>wed 2/27: &nbsp; course evaluation due</td>
         </tr>
     </tbody>
 </table> 
