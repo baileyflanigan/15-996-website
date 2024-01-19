@@ -9,9 +9,10 @@ These materials are open-source and free for use or adaptation (see licensing an
 
 
 ### Materials by semester (downloads)
+
 <a href="./docs/CSJEDI-Spring22-materials.zip" download="CSJEDI-Spring22-materials.zip">**Spring 2022 Materials**</a>
 
-
+<a href="./docs/CSJEDI-Spring23-materials.zip" download="CSJEDI-Spring23-materials.zip">**Spring 2023 Materials**</a>
 
 
 **The materials for this course are licensed under a creative commons license.** This license permits anyone to freely use and adapt these materials. Users are not permitted to commercialize the materials, and must give attribution (citation information below) to the creators. For details on the terms of this license, see the link to the license in the footer.
