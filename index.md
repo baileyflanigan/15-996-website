@@ -35,7 +35,7 @@ Designed specifically with the needs of PhD students in mind, this course is sho
 ### Logistics and Resources (Spring 2023)
 <br>
 **Instructors** <br>
-Ananya Joshi &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <font size="2"> &nbsp;&nbsp; </font> (she/her) &nbsp; &nbsp; aajoshi@andrew &nbsp; &nbsp;  <font size="2"> &nbsp; </font> (student instructor)<br>
+Gabriele Oliaro &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <font size="2"> &nbsp;&nbsp; </font> (he/him) &nbsp; &nbsp; goliaro@andrew &nbsp; &nbsp;  <font size="2"> &nbsp; </font> (student instructor)<br>
 Victor Akinwande <font size="2"> &nbsp; </font> (he/him) &nbsp; &nbsp; vakinwan@andrew &nbsp;   <font size="2"> </font> (student instructor)<br> 
 Zico Kolter &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <font size="1"> &nbsp; &nbsp; &nbsp;  </font>  (he/him) &nbsp; &nbsp;  <font size="1"> &nbsp; </font>  zkolter@andrew  &nbsp; &nbsp; <font size="2"> &nbsp; </font>(faculty instructor)<br>
 
@@ -44,7 +44,7 @@ Zico Kolter &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <font size="1"> &nbsp; &nbs
 
 
 **Course Time and Location** <br>
-Class is held Mondays, 9:30 - 10:50am ET in GHC 4303. <br>
+Class is held Tuesdays, 2:00 - 3:20pm ET in GHC 4303. <br>
 Office hours are by appointment (email instructors).  
 
 
@@ -83,50 +83,50 @@ This table contains the weekly class schedule, due dates, links to homeworks, an
             <td colspan="3"><b>Week 1: &nbsp;Introduction, identity, and intersectionality</b></td>  
         </tr>
         <tr>
-            <td>mon 1/13: pre-course surveys due<br>
-            sun 1/22:&nbsp; <a href="{{site.pre-class-1-link}}">pre-class activity 1</a> due </td>
-            <td>mon 1/23: &nbsp; class meets [<a href="{{site.lec-slides-1-link}}">lecture slides</a>]</td>
-            <td>tues 1/24: &nbsp;<a href="{{site.post-class-link}}">post-class reflection</a> due </td>
+            <td>mon 1/22: pre-course surveys due<br>
+            tue 1/23:&nbsp; <a href="{{site.pre-class-1-link}}">pre-class activity 1</a> due </td>
+            <td>tues 1/23: &nbsp; class meets [<a href="{{site.lec-slides-1-link}}">lecture slides</a>]</td>
+            <td>wed 1/24: &nbsp;<a href="{{site.post-class-link}}">post-class reflection</a> due </td>
         </tr>
         <tr>
-            <td colspan="3"><b>Week 2: &nbsp;Well-being in the PhD program</b></td>  
+            <td colspan="3"><b>Week 2: &nbsp;Creating identity safety in research settings</b></td>  
         </tr>
         <tr>
-            <td>sun 1/29:&nbsp; <a href="{{site.pre-class-2-link}}">pre-class activity 2</a> due </td>
-            <td>mon 1/30: &nbsp; class meets [<a href="{{site.lec-slides-2-link}}">lecture slides</a>] </td>
-            <td>tues 1/31: &nbsp; post-class reflection due</td>
+            <td>mon 1/29:&nbsp; <a href="{{site.pre-class-2-link}}">pre-class activity 2</a> due </td>
+            <td>tues 1/30: &nbsp; class meets [<a href="{{site.lec-slides-2-link}}">lecture slides</a>] </td>
+            <td>wed 1/31: &nbsp; post-class reflection due</td>
         </tr>
         <tr>
             <td colspan="3"><b>Week 3: &nbsp;Frameworks for understanding diverse experiences in CS, higher-ed, and the US context</b></td>  
         </tr>
         <tr>
-            <td>sun 2/5:&nbsp; <a href="{{site.pre-class-3-link}}">pre-class activity 3</a> due </td>
-            <td>mon 2/6: class meets [<a href="{{site.lec-slides-3-link}}">lecture slides</a>]</td>
-            <td>tues 2/7:&nbsp; post-class reflection due</td>
+            <td>mon 2/5:&nbsp; <a href="{{site.pre-class-3-link}}">pre-class activity 3</a> due </td>
+            <td>tues 2/6: class meets [<a href="{{site.lec-slides-3-link}}">lecture slides</a>]</td>
+            <td>wed 2/7:&nbsp; post-class reflection due</td>
         </tr>
         <tr>
-            <td colspan="3"><b>Week 4: &nbsp;Creating identity safety in research settings</b></td> 
+            <td colspan="3"><b>Week 4: &nbsp;Well-being in the PhD program</b></td> 
         </tr>
         <tr>
-            <td>sun 2/12: &nbsp; <a href="{{site.pre-class-4-link}}">pre-class activity 4</a> due </td>
-            <td>mon 2/13: class meets [<a href="{{site.lec-slides-4-link}}">lecture slides</a>]</td>
-            <td>tues 2/14: &nbsp; post-class reflection due</td>
+            <td>mon 2/12: &nbsp; <a href="{{site.pre-class-4-link}}">pre-class activity 4</a> due </td>
+            <td>tues 2/13: class meets [<a href="{{site.lec-slides-4-link}}">lecture slides</a>]</td>
+            <td>wed 2/14: &nbsp; post-class reflection due</td>
         </tr>
         <tr>
             <td colspan="3"><b>Week 5: &nbsp;Intent versus impact</b></td>  
         </tr>
         <tr> 
-            <td>sun 2/19:&nbsp; <a href="{{site.pre-class-5-link}}">pre-class activity 5</a>  due </td>
-            <td>mon 2/20: &nbsp;class meets [<a href="{{site.lec-slides-5-link}}">lecture slides</a>]</td>
-            <td>tues 2/21: &nbsp; post-class reflection due</td>
+            <td>mon 2/19:&nbsp; <a href="{{site.pre-class-5-link}}">pre-class activity 5</a>  due </td>
+            <td>tues 2/20: &nbsp;class meets [<a href="{{site.lec-slides-5-link}}">lecture slides</a>]</td>
+            <td>wed 2/21: &nbsp; post-class reflection due</td>
         </tr>
         <tr>
             <td colspan="3"><b>Week 6: &nbsp; Allyship and promoting positive change</b></td>  
         </tr>
         <tr>
-            <td>sun 2/26:&nbsp; <a href="{{site.pre-class-6-link}}">pre-class activity 6</a> due </td>
-            <td>mon 2/27: &nbsp;class meets [<a href="{{site.lec-slides-6-link}}">lecture slides</a>] </td>
-            <td>mon 2/27: &nbsp; course evaluation due</td>
+            <td>mon 2/26:&nbsp; <a href="{{site.pre-class-6-link}}">pre-class activity 6</a> due </td>
+            <td>tues 2/27: &nbsp;class meets [<a href="{{site.lec-slides-6-link}}">lecture slides</a>] </td>
+            <td>wed 2/27: &nbsp; course evaluation due</td>
         </tr>
     </tbody>
 </table> 
